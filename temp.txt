@@ -1,0 +1,1 @@
+Just checking how to sync changes from central repo to the local repo using git pull command. Temporary file.
